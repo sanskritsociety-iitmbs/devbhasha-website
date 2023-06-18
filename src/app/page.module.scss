@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 80px;
+    height: 60vh;
+}
+
+.heroText {
+    text-align: center;
+
+    h1 {
+        font-size: 120px;
+
+        background: linear-gradient(90.93deg, #FF007A 10.99%, #FF9E44 61.74%, #ffd609 91.82%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+
+        margin-bottom: 10px;
+    }
+
+    p {
+        font-size: 28px;
+    }
+}
+
+.heroButtons{
+    display: flex;
+    gap:20px;
+
+    a{
+        padding: 15px 30px;
+
+        &:first-child{
+            border-radius: 10px;
+            // box-shadow: 0px 0px 15px 0px gold;
+            animation: borderColors 5s infinite;
+        }
+
+        &:last-child{
+            background: #111;
+            border-radius: 10px;
+            color: #fff;
+            font-size: 110%;
+            font-weight: bold;
+        }
+    }
+}
+
+$spread : 10px;
+$blurRadius : 0px;
+$color1: #FF007A;
+$color2: #FF9E44;
+$color3: #caff09;
+
+
+@keyframes borderColors{
+    0%{
+        box-shadow: 0px $blurRadius $spread 0px $color1;
+        border: 3px solid $color1;
+
+    }
+    50%{
+        box-shadow: 0px $blurRadius $spread 0px $color2;
+        border: 3px solid $color2;
+    }
+    100%{
+        box-shadow: 0px $blurRadius $spread 0px $color3;
+        border: 3px solid $color3;
+
+    }
+}
