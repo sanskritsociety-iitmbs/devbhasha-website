@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
         <link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap" rel="stylesheet"></link>
       </head>
       <body>
-        <img loading="lazy" className="bg-image" src="/bg.png" />
+        <img title="bg-image" alt="bg-image" loading="lazy" className="bg-image" src="/bg.png" />
         <Navbar />
         {children}
         <Footer />

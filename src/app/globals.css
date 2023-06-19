@@ -13,8 +13,8 @@ body {
   gap:20px;
   justify-content: space-between;
   flex-direction: column;
-  min-height: 90vh;
-  padding: 20px;
+  /* min-height: 90vh; */
+  /* padding: 20px; */
 }
 
 a{
@@ -32,4 +32,8 @@ a{
   z-index: -1;
   opacity: 10%;
   filter: blur(3px);
+}
+
+#calendarTitle{
+  display:none !important;
 }
