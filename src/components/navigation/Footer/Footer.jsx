@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className={styles.footer}>
         <div>
-          <img src="/dbss-trans.png" alt="Society Logo" />
+          <img src="/dbss.png" alt="Society Logo" />
           <h3>DevBhasha.</h3>
           <p>अमृतत्वस्य तु नाशास्ति वित्तेन ।</p>
         </div>
@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.footer2}>
-        <p>© 2021 Dev Bhasha Sanskrit Society</p>
+        <p>© 2023 Dev Bhasha Sanskrit Society</p>
       </div>
     </div>
   );

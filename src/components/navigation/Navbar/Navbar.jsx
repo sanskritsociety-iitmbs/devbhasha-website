@@ -5,13 +5,13 @@ const Navbar = () => {
   return (
     <div className={styles.navbar}>
       <div>
-        <a href="/"><img src="/dbss-trans.png" alt="" /></a>
+        <a href="/"><img src="/dbss.png" alt="" /></a>
         {/* <a href="/">Dev Bhasha</a> */}
       </div>
       <div>
         {/* <a href="/blogs">Blogs</a> */}
         <a href="/team">Team</a>
-        <a href="/events">Events</a>
+        <a href="/#events">Events</a>
         <a href="/about">About</a>
         <a href="/contact">Contact</a>
       </div>

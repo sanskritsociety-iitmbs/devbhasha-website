@@ -1,6 +1,7 @@
 import Navbar from "@/components/navigation/Navbar/Navbar";
 import Footer from "@/components/navigation/Footer/Footer";
 import "./globals.css";
+import Image from "next/image";
 
 export const metadata = {
   title: "Dev Bhasha Sanskrit Society",
@@ -37,12 +38,18 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
-        <img
+        {/* <img
           title="bg-image"
           alt="bg-image"
           loading="lazy"
           className="bg-image"
           src="/bg.png"
+        /> */}
+        <Image
+        className="bg-image"
+          src="/bg.png"
+          alt="bg-image"
+          fill="true"
         />
         <Navbar />
         {children}
