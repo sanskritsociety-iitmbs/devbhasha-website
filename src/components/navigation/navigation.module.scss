@@ -200,6 +200,10 @@ $socialLinks: #fff;
         & >div:nth-child(2){
             gap: 20px;
             overflow-x: scroll ;
+
+            &::-webkit-scrollbar{
+                display: none;
+            }
         }
 
         gap:30px;
