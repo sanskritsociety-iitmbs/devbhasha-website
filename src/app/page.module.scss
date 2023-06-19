@@ -9,11 +9,12 @@
 .hero {
     height: 90vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
     gap: 40px;
     // background-color: #caff09;
+    margin-top:-40px;
 }
 
 .heroText {

@@ -10,7 +10,7 @@ body {
   overflow-x: hidden;
   font-family: 'Inter', sans-serif;
   display: flex;
-  gap:20px;
+  /* gap:20px; */
   justify-content: space-between;
   flex-direction: column;
   /* min-height: 90vh; */
