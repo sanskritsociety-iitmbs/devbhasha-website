@@ -3,7 +3,7 @@ import styles from "@/app/page.module.scss";
 
 const Events = () => {
   return (
-    <div className={styles.calendarContainer}>
+    <div id="events" className={styles.calendarContainer}>
       <h2>Events 📅</h2>
       <iframe
         className={styles.calendar}

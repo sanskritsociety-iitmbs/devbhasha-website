@@ -4,7 +4,7 @@ import styles from "@/app/page.module.scss";
 const Quotes = () => {
   return (
     <div className={styles.quotesPapa}>
-      <a href=""><h2>View More {webLink}</h2></a>
+      <a href="https://www.instagram.com/sanskritsociety_iitmbs/"><h2>View More {webLink}</h2></a>
       <div className={styles.QuotesBox}>
       
       {quotesList.map((item) => {

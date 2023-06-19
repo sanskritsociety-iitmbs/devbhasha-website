@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className={styles.navbar}>
       <div>
-        <img src="/dbss-trans.png" alt="" />
+        <a href="/"><img src="/dbss-trans.png" alt="" /></a>
         {/* <a href="/">Dev Bhasha</a> */}
       </div>
       <div>
@@ -17,8 +17,8 @@ const Navbar = () => {
       </div>
       <div className={styles.social1}>
         <div>
-          <a href="">{ig}</a>
-          <a href="">{yt}</a>
+          <a href="https://www.instagram.com/sanskritsociety_iitmbs/">{ig}</a>
+          <a href="https://www.youtube.com/@sanskritsocietyIITMBS">{yt}</a>
         </div>
       </div>
     </div>

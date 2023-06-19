@@ -11,8 +11,8 @@ export default function Home() {
           <p>The IIT Madras Sanskrit Society</p>
         </div>
         <div className={styles.heroButtons}>
-          <a href="">Know More</a>
-          <a href="">Start Learning</a>
+          <a href="/about">Know More</a>
+          <a href="https://www.youtube.com/@sanskritsocietyIITMBS">Start Learning</a>
         </div>
       </div>
       <Quotes/>

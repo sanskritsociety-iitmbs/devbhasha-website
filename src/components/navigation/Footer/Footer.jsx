@@ -13,18 +13,18 @@ const Footer = () => {
         <div>
           <div className={styles.quickLinks}>
             <p>Quick Links</p>
-            <p>Events</p>
-            <p>Team</p>
-            <p>About</p>
+            <a href="/#events">Events</a>
+            <a href="/team">Team</a>
+            <a href="/about">About</a>
           </div>
           <div className={styles.social}>
             <p>Follow Us</p>
             <div>
-              <a href="">{li}</a>
-              <a href="">{tw}</a>
-              <a href="">{ig}</a>
-              <a href="">{yt}</a>
-              <a href="">{mail}</a>
+              <a href="https://www.linkedin.com/in/db-sanskritsociety-iitmbs/">{li}</a>
+              <a href="https://twitter.com/sanskrit_iitmbs">{tw}</a>
+              <a href="https://www.instagram.com/sanskritsociety_iitmbs/">{ig}</a>
+              <a href="https://www.youtube.com/@sanskritsocietyIITMBS">{yt}</a>
+              <a href="mailto:sanskrit.society@study.iitm.ac.in">{mail}</a>
             </div>
           </div>
         </div>
