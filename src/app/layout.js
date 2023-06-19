@@ -50,6 +50,7 @@ export default function RootLayout({ children }) {
           src="/bg.png"
           alt="bg-image"
           fill="true"
+          quality={10}
         />
         <Navbar />
         {children}
