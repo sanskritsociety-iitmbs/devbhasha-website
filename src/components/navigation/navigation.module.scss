@@ -47,7 +47,6 @@ $socialLinks: #fff;
 
     padding: 20px;
     text-align: center;
-
     p {
         color: #fff;
     }
@@ -56,17 +55,20 @@ $socialLinks: #fff;
 .footer {
     width: 100%;
     padding: 40px 20px;
-
+    
     margin-top: 60px;
     background-color: #111;
     color: #fff;
     display: flex;
     justify-content: space-between;
 
+    flex-wrap: wrap;
+
     &>div:nth-child(2) {
         display: flex;
         justify-content: space-between;
         flex: 50%;
+        flex-wrap: wrap;
     }
 
     &>div:first-child {
@@ -153,5 +155,54 @@ $socialLinks: #fff;
     div {
         display: flex;
         gap: 40px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    .footer{
+        & > div:nth-child(2){
+            // flex-direction: column;
+            align-content: center;
+            gap: 20px;
+        }
+    }
+
+    .social{
+        // margin-top: 10px;
+        p{
+            margin-bottom: 0px;
+        }
+        div{
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+    }
+
+    .social1{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    .footer{
+        flex-direction: column;
+        gap:20px;
+    }
+
+    .navbar{
+        & >div:first-child{
+            img{
+                width: 70px ;
+            }
+        }
+
+        & >div:nth-child(2){
+            gap: 20px;
+            overflow-x: scroll ;
+        }
+
+        gap:30px;
+        
     }
 }

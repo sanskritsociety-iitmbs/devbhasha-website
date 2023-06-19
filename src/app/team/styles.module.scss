@@ -74,3 +74,26 @@ $borderRadius: 20px;
     }
 }
 
+@media only screen and (max-width: 1150px){
+    .memberContainer{
+        gap: 20px;
+    }
+}
+
+@media only screen and (max-width: 800px){
+.memberContainer{
+    padding: 0;
+    gap: 30px;
+}
+}
+
+@media only screen and (max-width: 750px){
+    .memberContainer{
+        padding: 20px;
+    }
+    
+    .member{
+        width: 100%;
+        max-width:500px;
+    }
+}

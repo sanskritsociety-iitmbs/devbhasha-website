@@ -154,3 +154,22 @@ $color3: #caff09;
         font-size: 40px;
     }
 }
+
+@media only screen and (max-width:800px){
+
+    .hero{
+        margin:0;
+        height: 60vh;
+        gap:30px;
+        // justify-content: center;
+    }
+    .heroText{
+        h1{
+            font-size: 80px;
+            // margin:0;
+        }
+        p{
+            font-size: 20px;
+        }
+    }
+}

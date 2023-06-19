@@ -35,7 +35,7 @@ const About = () => {
           electronic Essays, Newsletters, Magazines.
         </li>
       </ul>
-        <h2>Our Team</h2>
+        {/* <h2>Our Team</h2> */}
         <Team />
     </div>
   );
