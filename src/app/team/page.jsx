@@ -26,7 +26,7 @@ const setMembers = () => {
             </div>
 
             <div className={styles.social}>
-              {member.email ? <a href={member.email}>{mail}</a> : null}
+              {member.email ? <a href={"mailto:" + member.email}>{mail}</a> : null}
               {member.links.github ? (
                 <a href={member.links.github}>{gh}</a>
               ) : null}
