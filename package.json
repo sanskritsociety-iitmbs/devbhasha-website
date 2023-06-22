@@ -10,8 +10,6 @@
   },
   "dependencies": {
     "date-fns": "^2.30.0",
-    "eslint": "8.43.0",
-    "eslint-config-next": "13.4.6",
     "gray-matter": "^4.0.3",
     "markdown-to-jsx": "^7.2.1",
     "next": "13.4.6",
@@ -25,6 +23,7 @@
     "sharp": "^0.32.1"
   },
   "devDependencies": {
-    "@types/node": "20.3.1"
+    "@types/node": "20.3.1",
+    "typescript": "5.1.3"
   }
 }
