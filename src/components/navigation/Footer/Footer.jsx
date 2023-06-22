@@ -3,11 +3,11 @@ import styles from "../navigation.module.scss";
 
 const Footer = () => {
   return (
-    <div>
+    <div className={styles.outer}>
       <div className={styles.footer}>
         <div>
           <img src="/dbss.png" alt="Society Logo" />
-          <h3>DevBhasha.</h3>
+          <h3>DevBhasha</h3>
           <p>अमृतत्वस्य तु नाशास्ति वित्तेन ।</p>
         </div>
         <div>
@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.footer2}>
-        <p>© 2023 Dev Bhasha Sanskrit Society</p>
+        <a href="yashkc2025.github.io">© 2023 Dev Bhasha Sanskrit Society. Made with 💗 by Yash</a>
       </div>
     </div>
   );

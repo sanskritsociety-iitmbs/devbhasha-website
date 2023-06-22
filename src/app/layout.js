@@ -38,20 +38,6 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
-        {/* <img
-          title="bg-image"
-          alt="bg-image"
-          loading="lazy"
-          className="bg-image"
-          src="/bg.png"
-        /> */}
-        <Image
-        className="bg-image"
-          src="/bg.png"
-          alt="bg-image"
-          fill="true"
-          quality={10}
-        />
         <Navbar />
         {children}
         <Footer />

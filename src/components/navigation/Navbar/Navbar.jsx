@@ -13,6 +13,7 @@ const Navbar = () => {
         <a href="/team">Team</a>
         <a href="/#events">Events</a>
         <a href="/about">About</a>
+        <a href="/posts">Blog</a>
         <a href="mailto:sanskrit.society@study.iitm.ac.in">Contact</a>
       </div>
       <div className={styles.social1}>

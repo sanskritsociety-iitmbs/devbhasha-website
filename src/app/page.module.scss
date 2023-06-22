@@ -7,12 +7,12 @@
 }
 
 .hero {
-    height: 90vh;
+    min-height: 70vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
-    gap: 40px;
+    // gap: 40px;
     // background-color: #caff09;
     margin-top:-40px;
 }
@@ -46,8 +46,8 @@
 
         &:first-child {
             border-radius: 10px;
-            // box-shadow: 0px 0px 15px 0px gold;
-            animation: borderColors 5s infinite;
+            box-shadow: 0px 0px 15px 0px gold;
+            border: 3px solid gold;
         }
 
         &:last-child {
@@ -57,32 +57,6 @@
             font-size: 110%;
             font-weight: bold;
         }
-    }
-}
-
-$spread : 10px;
-$blurRadius : 0px;
-$color1: #FF007A;
-$color2: #FF9E44;
-$color3: #caff09;
-
-
-@keyframes borderColors {
-    0% {
-        box-shadow: 0px $blurRadius $spread 0px $color1;
-        border: 3px solid $color1;
-
-    }
-
-    50% {
-        box-shadow: 0px $blurRadius $spread 0px $color2;
-        border: 3px solid $color2;
-    }
-
-    100% {
-        box-shadow: 0px $blurRadius $spread 0px $color3;
-        border: 3px solid $color3;
-
     }
 }
 

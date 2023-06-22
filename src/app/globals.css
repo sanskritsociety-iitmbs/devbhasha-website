@@ -8,21 +8,24 @@ html,
 body {
   /* max-width: 100vw; */
   overflow-x: hidden;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   display: flex;
   /* gap:20px; */
   justify-content: space-between;
   flex-direction: column;
-  /* min-height: 90vh; */
+  min-height: 100vh;
   /* padding: 20px; */
+  background: rgb(255,251,206);
+  background: linear-gradient(195deg, rgba(255,251,206,1) 0%, rgba(255,253,167,1) 8%, rgb(255, 255, 255) 16%, rgb(255, 253, 230) 100%);
 }
 
-a{
+a {
   text-decoration: none;
   color: inherit;
 }
 
-.bg-image{
+.bg-image {
+  display: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -35,6 +38,6 @@ a{
   filter: blur(3px);
 }
 
-#calendarTitle{
-  display:none !important;
+#calendarTitle {
+  display: none !important;
 }
