@@ -1,5 +1,5 @@
-import Navbar from "@/components/navigation/Navbar/Navbar";
-import Footer from "@/components/navigation/Footer/Footer";
+import Navbar from "../components/navigation/Navbar/Navbar";
+import Footer from "../components/navigation/Footer/Footer";
 import "./globals.css";
 import Image from "next/image";
 

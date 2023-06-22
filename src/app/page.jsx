@@ -1,6 +1,6 @@
-import Quotes from "@/components/Quotes/Quotes";
+import Quotes from "../components/Quotes/Quotes";
 import styles from "./page.module.scss";
-import Events from "@/components/Events/Events";
+import Events from "../components/Events/Events";
 
 export default function Home() {
   return (

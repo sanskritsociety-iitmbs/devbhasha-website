@@ -1,7 +1,7 @@
-import Date from "@/components/Date";
+import Date from "../../../components/Date";
 import styles from "./posts.module.scss";
 
-import { getAllPostIds, getPostData } from "@/lib/posts";
+import { getAllPostIds, getPostData } from "../../../lib/posts";
 
 export async function generateMetadata({ params }) {
   const postData = await getPostData(params.id);

@@ -1,8 +1,8 @@
 import Link from 'next/link'
-import Date from '@/components/Date'
-import { siteTitle } from '@/app/layout'
+import Date from '../../components/Date'
+import { siteTitle } from '../layout'
 import styles from "./[id]/posts.module.scss"
-import { getSortedPostsData } from '@/lib/posts'
+import { getSortedPostsData } from '../../lib/posts'
 
 export const metadata = {
   title: siteTitle,
