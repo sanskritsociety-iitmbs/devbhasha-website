@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.footer2}>
-        <a href="yashkc2025.github.io">© 2023 Dev Bhasha Sanskrit Society. Made with 💗 by Yash</a>
+        <a href="yashkc2025.github.io">© 2023 Dev Bhasha Sanskrit Society</a>
       </div>
     </div>
   );
