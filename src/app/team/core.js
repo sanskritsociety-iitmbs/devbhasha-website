@@ -8,7 +8,7 @@ export const coreMembers = [
             "portfolio": "https://me.yashkc.com",
         },
         "photo" : "pics/yash.jpg",
-        "tagLine": "Writing Poetries in the mountains !",
+        "tagLine": "Writing Poetries in the mountains 🗻",
         "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion 'The Ronin' 🏍️🏔️",
         "position" : "Technical Head"
     },
@@ -25,6 +25,7 @@ export const coreMembers = [
     {
         name: "Niyati Rapria",
         email: "",
+        tagLine: "The 'chill pill' leader",
         links: {
             linkedin: "https://www.linkedin.com/in/niyati-rapria-a7339126a",
             instagram: "https://www.instagram.com/_niyati.rapria",
@@ -50,6 +51,7 @@ export const coreMembers = [
             "linkedin": "https://www.linkedin.com/in/kln12",
             "instagram": "https://www.instagram.com/agentfortuner_cc1/",
         },
+        tagLine: "The guy with connections",
         "photo" : "pics/krishnan.webp",
         "shortIntro" : "The ambitious PR head of Deva Bhasha at IIT Madras. Passionate about Sanskrit, he rocks social media to connect globally and promote the language's rich heritage. ",
         "position" : "Public Relations Head"
@@ -71,6 +73,7 @@ export const coreMembers = [
             linkedin: "https://www.linkedin.com/in/ojasvi-kumar-125a65141",
             instagram: "https://instagram.com/ojasvi170?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
         },
+        tagLine: "Love for Dinosaurs 🦖",
         photo: "pics/ojasvi.webp",
         shortIntro: "With a curious mind and a passion for dinosaurs, he's a unique gem! Asking thought-provoking questions, he explores Sanskrit texts and connects ancient life with modern management.",
         position: "Management CO-Head"
@@ -108,7 +111,7 @@ export const coreMembers = [
     {
         name: "Anagha P Bharadwaj",
         email: "",
-        tagLine: "Cultures with Words of Wisdom!",
+        tagLine: "Cultures with Words of Wisdom ✨",
         links: {
             linkedin: "https://www.linkedin.com/in/anagha-p-bharadwaj-aaba7725a/",
         },

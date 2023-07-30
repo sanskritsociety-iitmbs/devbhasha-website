@@ -35,7 +35,7 @@ export const execMembers = [
     {
         "name" : "Guru Saran Satsangi Peddinti",
         "email" : "21f1002569@ds.study.iitm.ac.in",
-        "tagLine": "A train lover !",
+        "tagLine": "A train lover 🚅",
         "links" : {
             "github" : "https://github.com/gurusaransatsangi",
             "linkedin" : "https://www.linkedin.com/in/gurusaransp/",
