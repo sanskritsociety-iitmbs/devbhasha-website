@@ -9,7 +9,7 @@ export const coreMembers = [
         },
         "photo" : "pics/yash.jpg",
         "tagLine": "Lost in the mountains !",
-        "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion `The Ronin` Wandering in the mountains",
+        "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion `The Ronin`",
         "position" : "Technical Head"
     },
     {
