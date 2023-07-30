@@ -44,7 +44,7 @@ export const execMembers = [
         },
         "photo" : "https://avatars.githubusercontent.com/u/107044770?v=4",
         "shortIntro" : "Guru Saran Satsangi is the Executive-in-Chief & Web Admin of Deva Bhasha, the IITM BS Sanskrit Society. He loves memes, movies, music, and technology, all of which enrich his life and perspective.        ",
-        "position" : "Web Admin"
+        "position" : "Executive in Chief"
     },
     
 ]
