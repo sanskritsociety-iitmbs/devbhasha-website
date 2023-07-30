@@ -8,8 +8,8 @@ export const coreMembers = [
             "portfolio": "https://me.yashkc.com",
         },
         "photo" : "pics/yash.jpg",
-        "tagLine": "Lost in the mountains !",
-        "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion `The Ronin`",
+        "tagLine": "Writing Poetries in the mountains !",
+        "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion 'The Ronin' 🏍️🏔️",
         "position" : "Technical Head"
     },
     {
@@ -19,7 +19,7 @@ export const coreMembers = [
             linkedin: "https://www.linkedin.com/in/neelotpala-india-3159a3220/"
         },
         photo: "pics/neelotpala.webp",
-        shortIntro: "",
+        shortIntro: "Neelotpala, the Advisor in Chief of the 'Deva Bhasha' Sanskrit society at IITM. She adores hosting and theater, captivating audiences with her charm. Her love for Sanskrit drives her to preserve its beauty and promote its significance.        ",
         position: "Advisor in Chief"
     },
     {
@@ -31,7 +31,7 @@ export const coreMembers = [
             twitter: "https://twitter.com/@_niyati.rapria"
         },
         photo: "pics/niyati.webp",
-        shortIntro: "",
+        shortIntro: "With a passion for Sanskrit, she's the 'chill pill' leader. Her infectious enthusiasm and creativity bring the language to life. From dancing to painting, she's a well-rounded soul",
         position: "PR Head"
     },
     {
@@ -39,7 +39,7 @@ export const coreMembers = [
         email: "",
         links: {},
         photo: "pics/ayush.webp",
-        shortIntro: "",
+        shortIntro: "With a burning passion for Sanskrit and culture, he's all about making connections that enrich lives. Bridging the gap between modern society and ancient wisdom.",
         position: "Deputy PR Head"
     },
     {
@@ -51,7 +51,7 @@ export const coreMembers = [
             "instagram": "https://www.instagram.com/agentfortuner_cc1/",
         },
         "photo" : "pics/krishnan.webp",
-        "shortIntro" : "Hey I am Keshava, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
+        "shortIntro" : "The ambitious PR head of Deva Bhasha at IIT Madras. Passionate about Sanskrit, he rocks social media to connect globally and promote the language's rich heritage. ",
         "position" : "Public Relations Head"
     },
     {
@@ -61,7 +61,7 @@ export const coreMembers = [
             instagram: "https://instagram.com/nidhi_dande?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"
         },
         photo: "pics/nidhi.webp",
-        shortIntro: "",
+        shortIntro: "Passionate about Sanskrit and India's heritage, she's a pro at connecting with people. A keen observer of human behavior, she's all about appreciating unique qualities and diving into books for self-discovery",
         position: "Deputy PR Head"
     },
     {
@@ -72,7 +72,7 @@ export const coreMembers = [
             instagram: "https://instagram.com/ojasvi170?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
         },
         photo: "pics/ojasvi.webp",
-        shortIntro: "",
+        shortIntro: "With a curious mind and a passion for dinosaurs, he's a unique gem! Asking thought-provoking questions, he explores Sanskrit texts and connects ancient life with modern management.",
         position: "Management CO-Head"
     },
     {
@@ -80,12 +80,13 @@ export const coreMembers = [
         email: "",
         links: {},
         photo: "pics/sneha.webp",
-        shortIntro: "",
+        shortIntro: "A 10-year tech whiz! Balancing like a boss—she rocks software and home life! In Deva Bhasha Core, her leadership, communication, and approachability make her the go-to leader !",
         position: "Management CO-Head"
     },
     {
         name: "Prathmesh Atkare",
         email: "22f3000787@ds.study.iitm.ac.in",
+        tagLine: "The design guy",
         links: {
             instagram: "http://www.instagram.com/atkareprathmesh14](http://www.instagram.com/atkareprathmesh14",
             linkedin: "https://www.linkedin.com/in/prathmesh-atkare-4436aa269/",
@@ -98,19 +99,21 @@ export const coreMembers = [
     {
         name: "Shivam Raj",
         email: "",
+        tagLine: "The cool tech head",
         links: {},
         photo: "pics/shivam.webp",
-        shortIntro: "",
+        shortIntro: "the tech prodigy and co-head of Technical at IITM BS Sanskrit Society! 🌟 His coding passion and automation wizardry have transformed the society, making Sanskrit more accessible and impactful",
         position: "Co-Technical Head"
     },
     {
         name: "Anagha P Bharadwaj",
         email: "",
+        tagLine: "Cultures with Words of Wisdom!",
         links: {
             linkedin: "https://www.linkedin.com/in/anagha-p-bharadwaj-aaba7725a/",
         },
         photo: "pics/anagha.webp",
-        shortIntro: "",
+        shortIntro: "Passionate about Sanskrit and linguistic diversity, she rocks interactive teaching and cultural events, promoting unity on campus. Her poetic finesse weaves traditional charm with modern vibes. ",
         position: "Pedagogy Head"
     }
 
