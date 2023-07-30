@@ -33,7 +33,7 @@ export const coreMembers = [
         },
         photo: "pics/niyati.webp",
         shortIntro: "With a passion for Sanskrit, she's the 'chill pill' leader. Her infectious enthusiasm and creativity bring the language to life. From dancing to painting, she's a well-rounded soul",
-        position: "PR Head"
+        position: "Documentation Head"
     },
     {
         name: "Ayush S Khade",
