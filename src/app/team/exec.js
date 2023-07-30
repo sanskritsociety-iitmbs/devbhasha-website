@@ -16,7 +16,7 @@ export const execMembers = [
         links: {},
         photo: "pics/madhuri.webp",
         shortIntro: "Madhuri the VP of Deva Bhasha, IITM BS Sanskrit Society. Embracing WhatsApp over mainstream social media, she leads with trust, empowers her team, and spreads Sanskrit's allure. A true role model, igniting passion in all. 🌟🌳",
-        tagLine: "",
+        tagLine: "Sweet and Down to Earth",
         position: "Vice President"
     },
     {
