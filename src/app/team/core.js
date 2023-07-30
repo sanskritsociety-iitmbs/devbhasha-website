@@ -62,7 +62,7 @@ export const coreMembers = [
         links: {
             instagram: "https://instagram.com/nidhi_dande?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D"
         },
-        tagLine: "The girl who misses metro!"
+        tagLine: "The girl who misses metro!",
         photo: "pics/nidhi.webp",
         shortIntro: "Passionate about Sanskrit and India's heritage, she's a pro at connecting with people. A keen observer of human behavior, she's all about appreciating unique qualities and diving into books for self-discovery",
         position: "Deputy PR Head"
