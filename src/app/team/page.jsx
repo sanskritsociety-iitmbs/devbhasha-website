@@ -1,6 +1,9 @@
 import React from "react";
 import styles from "./styles.module.scss";
-import { members } from "./members.js";
+import { coreMembers } from "./core.js";
+import { execMembers } from "./exec.js";
+import { otherMembers } from "./other.js";
+
 const Team = () => {
   return (
     <div className={styles.container}>
@@ -12,7 +15,9 @@ const Team = () => {
   );
 };
 
+
 const setMembers = () => {
+  const members = [...execMembers,...coreMembers,  ...otherMembers];
   return (
     <div className={styles.memberContainer}>
       {members.map((member) => {
@@ -26,7 +31,9 @@ const setMembers = () => {
             </div>
 
             <div className={styles.social}>
-              {member.email ? <a href={"mailto:" + member.email}>{mail}</a> : null}
+              {member.email ? (
+                <a href={"mailto:" + member.email}>{mail}</a>
+              ) : null}
               {member.links.github ? (
                 <a href={member.links.github}>{gh}</a>
               ) : null}
