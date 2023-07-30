@@ -8,7 +8,8 @@ export const coreMembers = [
             "portfolio": "https://me.yashkc.com",
         },
         "photo" : "pics/yash.jpg",
-        "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion `The Ronin`",
+        "tagLine": "Lost in the mountains !",
+        "shortIntro" : "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion `The Ronin` Wandering in the mountains",
         "position" : "Technical Head"
     },
     {
@@ -40,6 +41,18 @@ export const coreMembers = [
         photo: "pics/ayush.webp",
         shortIntro: "",
         position: "Deputy PR Head"
+    },
+    {
+        "name": "Krishnan Lakshmi Narayana",
+        "email": "22f3002565@ds.study.iitm.ac.in",
+        "links" : {
+            "github": "https://github.com/agentfortuner",
+            "linkedin": "https://www.linkedin.com/in/kln12",
+            "instagram": "https://www.instagram.com/agentfortuner_cc1/",
+        },
+        "photo" : "pics/krishnan.webp",
+        "shortIntro" : "Hey I am Keshava, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
+        "position" : "Public Relations Head"
     },
     {
         name: "Nidhi Dande",
@@ -79,7 +92,7 @@ export const coreMembers = [
             twitter: "https://twitter.com/prathmesh1401",
         },
         photo: "pics/prathmesh.webp",
-        shortIntro: "Although I'm not particularly interested in design, I find myself currently stuck in the design department. My true passion lies in the tech field, and I'm eager to transition out of the design department as soon as possible.",
+        shortIntro: "Although I'm not particularly interested in design, I find myself currently stuck in the design department. My true passion lies in the tech field.",
         position: "Design Head"
     },
     {

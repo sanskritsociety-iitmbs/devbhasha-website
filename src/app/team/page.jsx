@@ -17,7 +17,7 @@ const Team = () => {
 
 
 const setMembers = () => {
-  const members = [...execMembers,...coreMembers,  ...otherMembers];
+  const members = [...execMembers,...coreMembers];
   return (
     <div className={styles.memberContainer}>
       {members.map((member) => {
@@ -26,8 +26,11 @@ const setMembers = () => {
             <img src={member.photo} alt="member" />
             <div className={styles.text}>
               <h3>{member.name}</h3>
+              {
+                member.tagLine ? <p className={styles.tagLine}>{member.tagLine}</p>: null
+              }
               <p>{member.shortIntro}</p>
-              <p>{member.position}</p>
+              <p><b>{member.position}</b></p>
             </div>
 
             <div className={styles.social}>

@@ -18,18 +18,6 @@ export const execMembers = [
         position: "Vice President"
     },
     {
-        "name": "Krishnan Lakshmi Narayana",
-        "email": "22f3002565@ds.study.iitm.ac.in",
-        "links" : {
-            "github": "https://github.com/agentfortuner",
-            "linkedin": "https://www.linkedin.com/in/kln12",
-            "instagram": "https://www.instagram.com/agentfortuner_cc1/",
-        },
-        "photo" : "pics/krishnan.webp",
-        "shortIntro" : "Hey I am Keshava, a student at Indian Institute of Technology Madras. Currently, I am in freshman year of B.S. Data Science and Applications.",
-        "position" : "Public Relations Head"
-    },
-    {
         "name" : "Santosh Ravinutala",
         "email" : "22f1000328@ds.study.iitm.ac.in",
         "links" : {
@@ -39,11 +27,13 @@ export const execMembers = [
         },
         "photo" : "pics/santosh.webp",
         "shortIntro" : "A Quantum Computing and a Physics Enthusiast pursuing BS from IIT Madras. ",
-        "position" : "General Secretary"
+        "position" : "General Secretary",
+        "tagLine": "Quantum wale bhaiya !"
     },
     {
         "name" : "Guru Saran Satsangi Peddinti",
         "email" : "21f1002569@ds.study.iitm.ac.in",
+        "tagLine": "A train lover !",
         "links" : {
             "github" : "https://github.com/gurusaransatsangi",
             "linkedin" : "https://www.linkedin.com/in/gurusaransp/",
