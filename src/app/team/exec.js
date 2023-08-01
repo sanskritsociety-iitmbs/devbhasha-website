@@ -3,7 +3,7 @@ export const execMembers = [
         name: "Vighnesh Mishra",
         email: "",
         links: {
-            twitter: "twitter.com/vighneshmishr"
+            twitter: "https://twitter.com/vighneshmishr"
         },
         photo: "pics/vighnesh.webp",
         tagLine: "Twitter Maestro",
@@ -24,7 +24,7 @@ export const execMembers = [
         "email" : "22f1000328@ds.study.iitm.ac.in",
         "links" : {
             "github" : "https://github.com/San12R",
-            "linkedin" : "//https://www.linkedin.com/in/santoshravinutala/",
+            "linkedin" : "https://www.linkedin.com/in/santoshravinutala/",
             "twitter" : "https://twitter.com/s_ravinutala12",
         },
         "photo" : "pics/santosh.webp",
