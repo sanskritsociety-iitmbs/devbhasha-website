@@ -12,7 +12,7 @@ export default function Home() {
         </div>
         <div className={styles.heroButtons}>
           <a href="/about">Know More</a>
-          <a href="https://www.youtube.com/@sanskritsocietyIITMBS">Start Learning</a>
+          <a href="https://forms.gle/PKFrL8G7frszrHQK6">Start Learning</a>
         </div>
       </div>
       <Quotes/>
