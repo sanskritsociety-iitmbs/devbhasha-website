@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.hero}>
         <div className={styles.heroText}>
-          <h1>Dev Bhasha</h1>
+          <h1>Deva Bhasha</h1>
           <p>The IIT Madras Sanskrit Society</p>
         </div>
         <div className={styles.heroButtons}>
