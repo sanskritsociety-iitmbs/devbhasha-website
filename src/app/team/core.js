@@ -112,7 +112,7 @@ export const coreMembers = [
   {
     name: "Prathmesh Atkare",
     email: "22f3000787@ds.study.iitm.ac.in",
-    tagLine: "The design guy",
+    tagLine: "The social media guy",
     links: {
       instagram:
         "http://www.instagram.com/atkareprathmesh14](http://www.instagram.com/atkareprathmesh14",
