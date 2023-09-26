@@ -24,6 +24,18 @@ export const coreMembers = [
       "Neelotpala, the Advisor in Chief of the 'Deva Bhasha' Sanskrit society at IITM. She adores hosting and theater, captivating audiences with her charm. Her love for Sanskrit drives her to preserve its beauty and promote its significance.        ",
     position: "Advisor in Chief",
   },
+    {
+    name: "Rithika",
+    email: "22f3001552@ds.study.iitm.ac.in",
+    tagLine: "",
+    links: {
+       linkedin: "http://www.linkedin.com/in/rithika-raghu",
+      instagram: "https://www.instagram.com/_rituiyer_/",
+    },
+    photo: "pics/rithika.jpg",
+    shortIntro: "I bring a wealth of experience and creativity to the table, particularly in the realm of design and team management.",
+    position: "Design and Documentation Head",
+  },
   {
     name: "Niyati Rapria",
     email: "",
@@ -36,7 +48,7 @@ export const coreMembers = [
     photo: "pics/niyati.webp",
     shortIntro:
       "With a passion for Sanskrit, she's the 'chill pill' leader. Her infectious enthusiasm and creativity bring the language to life. From dancing to painting, she's a well-rounded soul",
-    position: "Documentation Head",
+    position: "Documentation Deputy Head",
   },
   {
     name: "Ayush S Khade",
@@ -134,13 +146,5 @@ export const coreMembers = [
       "Passionate about Sanskrit and linguistic diversity, she rocks interactive teaching and cultural events, promoting unity on campus. Her poetic finesse weaves traditional charm with modern vibes. ",
     position: "Pedagogy Head",
   },
-  {
-    name: "Rithika",
-    email: "",
-    tagLine: "",
-    links: {},
-    photo: "pics/rithika.jpg",
-    shortIntro: "I bring a wealth of experience and creativity to the table, particularly in the realm of design and team management.",
-    position: "Design and Documentation Head",
-  },
+
 ];
