@@ -23,7 +23,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/db-sanskritsociety-iitmbs/">{li}</a>
               <a href="https://twitter.com/sanskrit_iitmbs">{tw}</a>
               <a href="https://www.instagram.com/sanskritsociety_iitmbs/">{ig}</a>
-              <a href="https://www.youtube.com/@sanskritsocietyIITMBS">{yt}</a>
+              <a href="https://www.youtube.com/@dbsanskritsocietyIITM_BS">{yt}</a>
               <a href="mailto:sanskrit.society@study.iitm.ac.in">{mail}</a>
             </div>
           </div>
