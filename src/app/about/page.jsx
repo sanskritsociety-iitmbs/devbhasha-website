@@ -7,10 +7,10 @@ const About = () => {
     <div className={styles.container}>
       <h1>About</h1>
       <p>
-        Deva Bhasha Sanskrit Society was established in 2023 by a group of
+        Deva Bhasha The IITM BS Sanskrit Society was established in 2023 by a group of
         students of IIT Madras BS Degree who shared a common interest in the
         Sanskrit language and literature.
-        <br /> The society&apos;s founders recognized the importance of preserving
+        <br /> The society&apos founders recognized the importance of preserving
         this ancient language and culture, and set out to create a platform for
         students to learn, practice, and promote Sanskrit.
       </p>
