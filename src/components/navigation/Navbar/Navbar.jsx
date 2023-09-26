@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className={styles.social1}>
         <div>
           <a href="https://www.instagram.com/sanskritsociety_iitmbs/">{ig}</a>
-          <a href="https://www.youtube.com/@sanskritsocietyIITMBS">{yt}</a>
+          <a href="https://www.youtube.com/@dbsanskritsocietyIITM_BS">{yt}</a>
         </div>
       </div>
     </div>
