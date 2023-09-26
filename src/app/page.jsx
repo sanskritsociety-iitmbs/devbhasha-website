@@ -8,7 +8,7 @@ export default function Home() {
       <div className={styles.hero}>
         <div className={styles.heroText}>
           <h1>Deva Bhasha</h1>
-          <p>The IIT Madras Sanskrit Society</p>
+          <p>The IIT Madras BS Sanskrit Society</p>
         </div>
         <div className={styles.heroButtons}>
           <a href="/about">Know More</a>
