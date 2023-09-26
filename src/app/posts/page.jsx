@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <section className={styles.postList}>
-        <h1>Posts from Team Dev Bhasha</h1>
+        <h1>Posts from Team Deva Bhasha</h1>
         <ul>
           {allPostsData.map(({ id, date, title, author }) => (
             <li key={id}>
