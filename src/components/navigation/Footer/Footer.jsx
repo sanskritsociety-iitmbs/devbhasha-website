@@ -7,7 +7,7 @@ const Footer = () => {
       <div className={styles.footer}>
         <div>
           <img src="/dbss.png" alt="Society Logo" />
-          <h3>DevBhasha</h3>
+          <h3>Deva Bhasha</h3>
           <p>अमृतत्वस्य तु नाशास्ति वित्तेन ।</p>
         </div>
         <div>
@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={styles.footer2}>
-        <a href="yashkc2025.github.io">Designed by Tech Dept | © 2023 Dev Bhasha Sanskrit Society</a>
+        <a href="yashkc2025.github.io">Designed by Tech Dept | © 2023 Deva Bhasha Sanskrit Society</a>
       </div>
     </div>
   );
