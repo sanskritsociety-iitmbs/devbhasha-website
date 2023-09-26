@@ -4,8 +4,8 @@ import "./globals.css";
 import Image from "next/image";
 
 export const metadata = {
-  title: "Dev Bhasha Sanskrit Society",
-  description: "DevBhasha Sanskrit Society, IIT Madras",
+  title: "Deva Bhasha Sanskrit Society",
+  description: "Deva Bhasha Sanskrit Society, IIT Madras BS Degree",
 };
 
 export default function RootLayout({ children }) {
