@@ -108,5 +108,6 @@ export const coreMembers = [
     shortIntro:
       "Neelotpala, the Advisor in Chief of the 'Deva Bhasha' Sanskrit society at IITM. She adores hosting and theater, captivating audiences with her charm. Her love for Sanskrit drives her to preserve its beauty and promote its significance.        ",
     position: "Advisor in Chief"
+   },
 
 ];
