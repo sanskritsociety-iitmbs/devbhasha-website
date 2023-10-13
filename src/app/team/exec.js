@@ -11,7 +11,7 @@ export const execMembers = [
         position: "President"
     },
     {
-        name: "Madhuri",
+        name: "Madhuri K S A",
         email: "",
         links: {},
         photo: "pics/madhuri.webp",
