@@ -21,8 +21,7 @@ export const coreMembers = [
     position: "Management Head",
   },
 
-  },
-    {
+  {
     name: "Krishnan Lakshmi Narayana",
     email: "22f3002565@ds.study.iitm.ac.in",
     links: {
