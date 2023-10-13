@@ -1,18 +1,5 @@
 export const coreMembers = [
-  /*{
-    name: "Yash Kumar यश कुमार",
-    email: "22f3000472@ds.study.iitm.ac.in",
-    links: {
-      github: "https://github.com/yashkc2025",
-      linkedin: "https://www.linkedin.com/in/yashkc2025/",
-      portfolio: "https://me.yashkc.com",
-    },
-    photo: "pics/yash.jpg",
-    tagLine: "Writing Poetries in the mountains 🗻",
-    shortIntro:
-      "You'll often catch me cruising through the winding mountain roads, as if the twists and turns were custom-made for my two-wheeled companion 'The Ronin' 🏍️🏔️",
-    position: "Technical Head",
-  },*/
+ 
   {
     name: "Neelotpala",
     email: "",
@@ -36,20 +23,7 @@ export const coreMembers = [
     shortIntro: "I bring a wealth of experience and creativity to the table, particularly in the realm of design and team management.",
     position: "Design and Documentation Head",
   },
-  /*{
-    name: "Niyati Rapria",
-    email: "",
-    tagLine: "The 'chill pill' leader",
-    links: {
-      linkedin: "https://www.linkedin.com/in/niyati-rapria-a7339126a",
-      instagram: "https://www.instagram.com/_niyati.rapria",
-      twitter: "https://twitter.com/@_niyati.rapria",
-    },
-    photo: "pics/niyati.webp",
-    shortIntro:
-      "With a passion for Sanskrit, she's the 'chill pill' leader. Her infectious enthusiasm and creativity bring the language to life. From dancing to painting, she's a well-rounded soul",
-    position: "Documentation Deputy Head",
-  },*/
+  
   {
     name: "Ayush S Khade",
     email: "",
@@ -86,20 +60,7 @@ export const coreMembers = [
       "Passionate about Sanskrit and India's heritage, she's a pro at connecting with people. A keen observer of human behavior, she's all about appreciating unique qualities and diving into books for self-discovery",
     position: "Deputy PR Head",
   },
-  /*{
-    name: "Ojasvi Kumar",
-    email: "",
-    links: {
-      linkedin: "https://www.linkedin.com/in/ojasvi-kumar-125a65141",
-      instagram:
-        "https://instagram.com/ojasvi170?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
-    },
-    tagLine: "Love for Dinosaurs 🦖",
-    photo: "pics/ojasvi.webp",
-    shortIntro:
-      "With a curious mind and a passion for dinosaurs, he's a unique gem! Asking thought-provoking questions, he explores Sanskrit texts and connects ancient life with modern management.",
-    position: "Management CO-Head",
-  },*/
+ 
   {
     name: "Sneha Kulkarni",
     email: "",
