@@ -1,17 +1,5 @@
 export const coreMembers = [
- 
   {
-    name: "Neelotpala",
-    email: "",
-    links: {
-      linkedin: "https://www.linkedin.com/in/neelotpala-india-3159a3220/",
-    },
-    photo: "pics/neelotpala.webp",
-    shortIntro:
-      "Neelotpala, the Advisor in Chief of the 'Deva Bhasha' Sanskrit society at IITM. She adores hosting and theater, captivating audiences with her charm. Her love for Sanskrit drives her to preserve its beauty and promote its significance.        ",
-    position: "Advisor in Chief",
-  },
-    {
     name: "Rithika",
     email: "22f3001552@ds.study.iitm.ac.in",
     tagLine: "",
@@ -21,19 +9,20 @@ export const coreMembers = [
     },
     photo: "pics/rithika.jpg",
     shortIntro: "I bring a wealth of experience and creativity to the table, particularly in the realm of design and team management.",
-    position: "Design and Documentation Head",
+    position: "Creative,Design and Documentation Head",
   },
-  
-  {
-    name: "Ayush S Khade",
+   {
+    name: "Sneha Kulkarni",
     email: "",
     links: {},
-    photo: "pics/ayush.webp",
+    photo: "pics/sneha.webp",
     shortIntro:
-      "With a burning passion for Sanskrit and culture, he's all about making connections that enrich lives. Bridging the gap between modern society and ancient wisdom.",
-    position: "Deputy PR Head",
+      "A 10-year tech whiz! Balancing like a boss—she rocks software and home life! In Deva Bhasha Core, her leadership, communication, and approachability make her the go-to leader !",
+    position: "Management Head",
   },
-  {
+
+  },
+    {
     name: "Krishnan Lakshmi Narayana",
     email: "22f3002565@ds.study.iitm.ac.in",
     links: {
@@ -47,6 +36,17 @@ export const coreMembers = [
       "The ambitious PR head of Deva Bhasha at IIT Madras. Passionate about Sanskrit, he rocks social media to connect globally and promote the language's rich heritage. ",
     position: "Public Relations Head",
   },
+ 
+  {
+    name: "Ayush S Khade",
+    email: "",
+    links: {},
+    photo: "pics/ayush.webp",
+    shortIntro:
+      "With a burning passion for Sanskrit and culture, he's all about making connections that enrich lives. Bridging the gap between modern society and ancient wisdom.",
+    position: "Deputy PR Head",
+  },
+ 
   {
     name: "Nidhi Dande",
     email: "",
@@ -61,16 +61,7 @@ export const coreMembers = [
     position: "Deputy PR Head",
   },
  
-  {
-    name: "Sneha Kulkarni",
-    email: "",
-    links: {},
-    photo: "pics/sneha.webp",
-    shortIntro:
-      "A 10-year tech whiz! Balancing like a boss—she rocks software and home life! In Deva Bhasha Core, her leadership, communication, and approachability make her the go-to leader !",
-    position: "Management CO-Head",
-  },
-  {
+{
     name: "Prathmesh Atkare",
     email: "22f3000787@ds.study.iitm.ac.in",
     tagLine: "The social media guy",
@@ -107,5 +98,16 @@ export const coreMembers = [
       "Passionate about Sanskrit and linguistic diversity, she rocks interactive teaching and cultural events, promoting unity on campus. Her poetic finesse weaves traditional charm with modern vibes. ",
     position: "Pedagogy Head",
   },
+
+   {
+    name: "Neelotpala",
+    email: "",
+    links: {
+      linkedin: "https://www.linkedin.com/in/neelotpala-india-3159a3220/",
+    },
+    photo: "pics/neelotpala.webp",
+    shortIntro:
+      "Neelotpala, the Advisor in Chief of the 'Deva Bhasha' Sanskrit society at IITM. She adores hosting and theater, captivating audiences with her charm. Her love for Sanskrit drives her to preserve its beauty and promote its significance.        ",
+    position: "Advisor in Chief"
 
 ];
